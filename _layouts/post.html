@@ -10,7 +10,7 @@ layout: single
   </header>
 
   {% if page.review_id %}
-    {% assign whisky = site.data.whiskies[page.review_id] %}
+    {% assign whisky = site.data.reviews[page.review_id] %}
     {% include review.html %}
   {% endif %}
 
