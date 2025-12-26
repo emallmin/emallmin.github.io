@@ -10,8 +10,8 @@
 
   <h4>Tasting Notes:</h4>
   <ul>
-    {% for key, note in whisky.tasting_notes %}
-      <li><strong>{{ key | capitalize }}:</strong> {{ note }}</li>
+    {% for key in whisky.tasting_notes %}
+      <li><strong>{{ key | capitalize }}:</strong> {{ whisky.tasting_notes[key] }}</li>
     {% endfor %}
   </ul>
 </div>
