@@ -1,6 +1,6 @@
 title: "My Whisky Blog"
 description: "Tasting notes and grades for whiskies I explore"
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 
 # Optional: Markdown and posts
 markdown: kramdown
