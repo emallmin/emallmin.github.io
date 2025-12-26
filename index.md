@@ -1,15 +1,10 @@
 ---
-layout: post
-title: "Welcome"
+layout: home
+title: "My Whisky Blog"
+author_profile: false
 ---
 
 Welcome to my whisky blog.
 
-<h2>Posts</h2>
-<ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+Here I write long-form posts about whiskies I taste, with structured reviews embedded directly in the text.  
+You can browse recent posts below, or explore all reviews separately.
