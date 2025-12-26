@@ -4,7 +4,7 @@ title: "First review: Lagavulin 16"
 review_id: lagavulin16
 ---
 
-{% assign whisky = site.data.whiskies[page.review_id] %}
+{% assign whisky = site.data.reviews[page.review_id] %}
 
 <h2>{{ whisky.name }}</h2>
 
