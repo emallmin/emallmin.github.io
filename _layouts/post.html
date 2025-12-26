@@ -1,15 +1,21 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }} – {{ site.title }}</title>
-  </head>
-  <body>
+---
+layout: single
+---
 
-    <h1>{{ page.title }}</h1>
-    <p><em>{{ page.date | date: "%Y-%m-%d" }}</em></p>
+<article class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%B %d, %Y" }}</p>
+  </header>
+
+  {% if page.review_id %}
+    {% assign whisky = site.data.whiskies[page.review_id] %}
+    {% include review.html %}
+  {% endif %}
+
+  <div class="post-content">
     {{ content }}
+  </div>
 
-  </body>
-</html>
+</article>

@@ -1,9 +1,13 @@
-lagavulin16:
+lagavulin-16:
   name: "Lagavulin 16"
+  distillery: "Lagavulin"
   age: 16
-  region: Islay
-  grade: 93
+  vintage: null
+  abv: 43
+  cask: "Ex-bourbon"
+  image: null
   tasting_notes:
-    - peat
-    - smoke
-    - iodine
+    nose: "Smoke, iodine, dried fruit"
+    palate: "Oily peat, sweetness"
+    finish: "Long, smoky"
+  grade: 90

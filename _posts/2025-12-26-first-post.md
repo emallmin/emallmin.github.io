@@ -1,22 +1,11 @@
 ---
 layout: post
-title: "First review: Lagavulin 16"
-review_id: lagavulin16
+title: "First Whisky Review"
+date: 2025-12-26
+review_id: lagavulin-16
+categories: whisky
+tags: [review, peated]
 ---
+This is my first blog post blah blah blah
 
-{% assign whisky = site.data.reviews[page.review_id] %}
-
-<h2>{{ whisky.name }}</h2>
-
-<ul>
-  <li>Age: {{ whisky.age }}</li>
-  <li>Region: {{ whisky.region }}</li>
-  <li>Grade: {{ whisky.grade }}</li>
-</ul>
-
-<h3>Tasting notes</h3>
-<ul>
-{% for note in whisky.tasting_notes %}
-  <li>{{ note }}</li>
-{% endfor %}
-</ul>
+I plan to add more posts and reviews soon!
