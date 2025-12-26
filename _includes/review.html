@@ -1,17 +1,17 @@
+{% assign whisky = site.data.whiskies[include.id] %}
+
+{% if whisky %}
 <div class="whisky-review">
-  <h3>{{ whisky.name }}{% if whisky.age %}, {{ whisky.age }} yrs{% endif %}</h3>
-  <p><strong>Distillery:</strong> {{ whisky.distillery }}</p>
-  {% if whisky.vintage %}
-    <p><strong>Vintage:</strong> {{ whisky.vintage }}</p>
-  {% endif %}
-  <p><strong>ABV:</strong> {{ whisky.abv }}%</p>
-  <p><strong>Cask:</strong> {{ whisky.cask }}</p>
+  <h3>{{ whisky.name }}</h3>
+  <p><strong>Age:</strong> {{ whisky.age }}</p>
   <p><strong>Grade:</strong> {{ whisky.grade }}/100</p>
 
-  <h4>Tasting Notes:</h4>
   <ul>
     {% for key in whisky.tasting_notes %}
       <li><strong>{{ key | capitalize }}:</strong> {{ whisky.tasting_notes[key] }}</li>
     {% endfor %}
   </ul>
 </div>
+{% else %}
+<p><em>Review not found: {{ include.id }}</em></p>
+{% endif %}
