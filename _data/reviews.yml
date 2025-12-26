@@ -1,0 +1,9 @@
+lagavulin16:
+  name: "Lagavulin 16"
+  age: 16
+  region: Islay
+  grade: 93
+  tasting_notes:
+    - peat
+    - smoke
+    - iodine
