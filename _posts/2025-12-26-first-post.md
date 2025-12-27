@@ -1,12 +1,8 @@
 ---
 layout: single
-title: "First Whisky Review"
-date: 2025-12-26
-categories: whisky
-tags: [review, peated]
+title: "First post"
+date: 2025-12-27
+categories: news
+tags: [test1, test2]
 ---
-This is my first blog post blah blah blah - just mock data for prototyping 
-
-I plan to add more posts and reviews soon!
-
-{% include review.html id="lagavulin-16" %}
+This is a test post
