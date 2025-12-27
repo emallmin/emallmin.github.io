@@ -9,4 +9,5 @@ This is my first blog post blah blah blah
 
 I plan to add more posts and reviews soon!
 
-{% include review.html id="lagavulin-16" %}
+<!-- 
+{% include review.html id="lagavulin-16" %} -->
