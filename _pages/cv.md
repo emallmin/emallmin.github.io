@@ -20,6 +20,9 @@ layout: single
 
 *Aug 2012 – June 2017*  
 **MSc & BSc in Engineering Physics: Royal Institute of Technology**, Stockholm, Sweden
-- Thesis: Construction of equilibrium distributions from simulation of nonequilibrium processes with feedback control
-- First semester 2016 at the National University of Singapore
+<ul style="margin-top:0.2em;">
+  <li>Thesis: Construction of equilibrium distributions from simulation of nonequilibrium processes with feedback control</li>
+  <li>First semester 2016 at the National University of Singapore</li>
+</ul>
+
 
