@@ -24,15 +24,11 @@ Advisors: Martin Evans, Richard Blythe
 Thesis: Construction of equilibrium distributions from simulation of nonequilibrium processes with feedback control  
 First semester 2016 at the National University of Singapore
 
-<!-- <ul style="margin-top:0.2em;">
-  <li>Thesis: Construction of equilibrium distributions from simulation of nonequilibrium processes with feedback control</li>
-  <li>First semester 2016 at the National University of Singapore</li>
-</ul> -->
 
 
-# Academic activities
+## Academic service
 
-*2025 and forward *  
+*2025 and forward*  
 **Co-organizer & Lecturer: 'INTP Spring/Summer School on Mathematical Theory in Community Ecology'**, Surba, France
 [Some information about the school]
 
