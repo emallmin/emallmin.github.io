@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Emil Mallmin"
-author_profile: false
+author_profile: true
 ---
 
 This is my personal webpage. Content to appear. Test

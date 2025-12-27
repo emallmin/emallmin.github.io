@@ -6,6 +6,7 @@ plugins:
   - jekyll-include-cache
 
 
+show_header: true
 
 title: "Emil Mallmin"
 email: emallmin@evolbio.mpg.de
