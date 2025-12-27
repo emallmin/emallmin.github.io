@@ -26,10 +26,10 @@ All my published works are freely available, either through journal open access 
     https://doi.org/10.48550/arXiv.2009.10006), [journal](https://doi.org/10.1088/1742-5468/abd30e))
 0. **Efficiency of one-dimensional active transport conditioned on motility**  
     Francesco Cagnetta, Emil Mallmin  
-    *Physical Review E* 2020 ([free preprint](https://doi.org/10.48550/arXiv.1907.01383), [journal](https://doi.org/10.1103/PhysRevE.101.022130), )
+    *Physical Review E* 2020 ([free preprint](https://doi.org/10.48550/arXiv.1907.01383), [journal](https://doi.org/10.1103/PhysRevE.101.022130))
 0. **A comparison of dynamical fluctuations of biased diffusion and run-and-tumble dynamics in one dimension**  
     Emil Mallmin, Richard A. Blythe, Martin R. Evans  
-    *Journal of Physics A: Mathematical and Theoretical* 2019 ([free preprint](https://doi.org/10.48550/arXiv.1905.10260), [journal](https://doi.org/10.1088/1751-8121/ab4349), )
+    *Journal of Physics A: Mathematical and Theoretical* 2019 ([free preprint](https://doi.org/10.48550/arXiv.1905.10260), [journal](https://doi.org/10.1088/1751-8121/ab4349))
 0. **Exact spectral solution of two interacting run-and-tumble particles on a ring lattice**  
     Emil Mallmin, Richard A. Blythe, Martin R. Evans  
     *Journal of Statistical Mechanics: Theory and Experiment* 2019 ([free preprint](https://doi.org/10.48550/arXiv.1810.00813), [journal](https://doi.org/10.1088/1742-5468/aaf631))
