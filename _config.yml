@@ -9,6 +9,7 @@ include: ["_pages"]
 
 
 title: "Emil Mallmin"
+masthead_title: "Something" # overrides the website title displayed in the masthead, use " " for no title
 email: emallmin@evolbio.mpg.de
 description: "Academic CV and personal website"
 baseurl: "" # leave empty for user site
@@ -17,8 +18,8 @@ url: "emilmallmin.com"
 author:
   name: "Emil Mallmin"
   avatar: "/assets/images/avatar_square.jpg"
-  bio: "Statistical physicist, specialising on understanding ecological communities | PhD"
-  location: "Max Planck Institute for Evolutionary Biology, Plön, Germany"
+  bio: "Statistical physicist | PhD"
+  location: "Plön, Germany"
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
