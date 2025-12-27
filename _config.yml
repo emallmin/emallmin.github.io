@@ -9,7 +9,7 @@ include: ["_pages"]
 
 
 title: "Emil Mallmin"
-masthead_title: "Emil's persoanl webpage" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Emil's personal webpage" # overrides the website title displayed in the masthead, use " " for no title
 email: emallmin@evolbio.mpg.de
 description: "Academic CV and personal website"
 baseurl: "" # leave empty for user site
