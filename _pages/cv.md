@@ -1,7 +1,7 @@
 ---
 title: CV
 permalink: /cv/
-layout: page
+layout: single
 ---
 
 
