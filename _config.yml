@@ -1,10 +1,30 @@
-title: "Emil Mallmin"
-description: "Person webpage"
 remote_theme: mmistakes/minimal-mistakes
-
-# Optional: Markdown and posts
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+
+
+
+title: "Emil Mallmin"
+email: emallmin@evolbio.mpg.de
+description: "Academic CV and personal website"
+baseurl: "" # leave empty for user site
+url: "emilmallmin.com"
+
+author:
+  name: "Emil Mallmin"
+  avatar: "/assets/images/avatar.jpg" # optional
+  bio: "Statistical physics of ecological communities | PhD"
+
+# Social links (optional)
+# social:
+#   github: "ericjohnsson"
+#   linkedin: "eric-johnsson"
+#   twitter: "ericjohnsson"
+
+# Navigation
+header_pages:
+  - /cv/
+  - /publications/
