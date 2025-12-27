@@ -4,7 +4,8 @@ permalink: /publications/
 layout: single
 ---
 
-1. Publication1
-2. Publication2
-3. Publication333
+0. first item
+0. second item
+0. another item
+{: reversed="reversed"}
 
