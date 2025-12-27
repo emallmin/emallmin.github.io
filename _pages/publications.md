@@ -1,7 +1,7 @@
 ---
 title: Publications
 permalink: /publications/
-layout: single
+layout: page
 ---
 
 1. Publication1
