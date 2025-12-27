@@ -1,7 +1,8 @@
 ---
 title: CV
 permalink: /cv/
-layout: wide
+layout: single
+classes: wide
 ---
 
 
