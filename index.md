@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Emil Mallmin"
-permalink: /
+author_profile: true
 ---
 
-This is my personal webpage. Content to appear. Test2
+This is my personal webpage. Under construction.

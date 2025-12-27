@@ -5,6 +5,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
+include: ["_pages"]
+
 
 title: "Emil Mallmin"
 email: emallmin@evolbio.mpg.de
@@ -14,8 +16,8 @@ url: "emilmallmin.com"
 
 author:
   name: "Emil Mallmin"
-  avatar: "/assets/images/avatar.jpg" # optional
-  bio: "Statistical physics of ecological communities | PhD"
+  avatar: "/assets/images/avatar_square.jpg"
+  bio: "Statistical physicist, specialising on understanding ecological communities | PhD"
 
 # Social links (optional)
 # social:
@@ -23,7 +25,3 @@ author:
 #   linkedin: "eric-johnsson"
 #   twitter: "ericjohnsson"
 
-# Navigation
-header_pages:
-  - /cv/
-  - /publications/
