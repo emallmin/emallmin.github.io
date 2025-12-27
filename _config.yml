@@ -18,10 +18,22 @@ author:
   name: "Emil Mallmin"
   avatar: "/assets/images/avatar_square.jpg"
   bio: "Statistical physicist, specialising on understanding ecological communities | PhD"
+  location: "Max Planck Institute for Evolutionary Biology, Plön, Germany"
+  links:
+    - label: "email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:emallmin@evolbio.mpg.de"
 
-# Social links (optional)
-# social:
-#   github: "ericjohnsson"
-#   linkedin: "eric-johnsson"
-#   twitter: "ericjohnsson"
 
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: false
+#       comments: true
+#       share: true
+#       related: true
