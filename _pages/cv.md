@@ -26,22 +26,26 @@ First semester 2016 at the National University of Singapore
 
 
 
-## Academic service
+## Professional activities
 
 *2025 and forward*  
-**Co-organizer & Lecturer: 'INTP Spring/Summer School on Mathematical Theory in Community Ecology'**, Surba, France
+**Co-organizer & Lecturer: 'INTP Spring/Summer School on Mathematical Theory in Community Ecology'**, Surba, France  
 [Some information about the school]
 
 *July 2023*  
-**Principal organizer: 'Microbial community ecology: bridging theory and observations'**, MPI Plön, Germany
+**Principal organizer: 'Microbial community ecology: bridging theory and observations'**, MPI Plön, Germany  
 [Some information about the workshop]
 
+*2020 - 2021*
+**Co-organizer/host of webinar series "Statistical Physics and Complexity"**  
+[add info]
+
 *2018 – 2020*  
-**Teaching assisant: University of Edinburgh, Physics & Astronomy**
+**Teaching assisant: University of Edinburgh, Physics & Astronomy**  
 [Info about courses]
 
-*Continuous*
-**Peer reviewer** for PNAS; J. Theor. Biol.; PLOS Comp. Biol.; PLOS Complex Systems; J. Phys.: Complexity; J. Phys A; J. Stat. Mech.; Soft Matter
+*Continuous*  
+**Peer reviewer**: for PNAS; J. Theor. Biol.; Phys. Rev. Lett.; PLOS Comp. Biol.; PLOS Complex Systems; J. Phys.: Complexity; J. Phys A; J. Stat. Mech.; Soft Matter
 
 
 
