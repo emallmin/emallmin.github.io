@@ -33,7 +33,7 @@ First semester 2016 at the National University of Singapore
 This school, initiated and hosted by the *Institut Natura e Teoria Pirenèus (INTP)*, offers an overview of community ecology for interdisciplinary theoreticians from Master's level and up. The lecture materials have been crafted in a collaborative fashion by our team of researchers working on both sides of the interface between physics and community ecology, with the aim to unify and synthesize perspectives. The first edition of the school was held in May 2025 ([programme](https://intp.science/en/content/2025-intp-spring-school-community-ecology)) with the second edition planned for July 2026.
 
 *July 2023*  
-**Principal organizer: 'Microbial community ecology: bridging theory and observations'**, MPI Plön, Germany  
+**Principal organizer: "Microbial community ecology: bridging theory and observations"**, MPI Plön, Germany  
 The aim of this 3-day workshop was to tackle the high complexity of diverse microbial ecosystems through integration of insights from across different perspectives and methodologies ([programme](https://workshops.evolbio.mpg.de/event/84/overview)). Organized by myself, Silvia De Monte, and several international peers for 40 attending scientists, my responsibilities included setting the scientific agenda, budgeting, inviting/selecting participants, and moderating talk sessions.
 
 *2020 - 2021*  
@@ -44,7 +44,12 @@ I took part in refactoring a regular group meeting for the statistical physics g
 **Teaching assistant: University of Edinburgh, Physics & Astronomy**  
 Courses: Linear Algebra and Several Variable Calculus, Thermodynamics, Statistical Mechanics, Statistical Physics (Honours), Advanced Statistical Physics (Honours)
 
-*Continuous*  
-**Peer reviewer** for PNAS; J. Theor. Biol.; Phys. Rev. Lett.; PLOS Comp. Biol.; PLOS Complex Systems; J. Phys.: Complexity; J. Phys A; J. Stat. Mech.; Soft Matter
+**Selected conference attendances**
+- *July 2025:* STATPHYS29, Florence, Italy. Contributed talk: "How fluctuating growth rates make species-rich communities uneven"
+- *July 2024*, MMEE24: Mathematical Modeling in Ecology and Evolution, Vienna, Austria. Invited talk (Macroecology session) "Turnover of rare and abundant species due to unstructured ecological differences"
+- *Feb 2024*, Modeling on Ecology and Evolution Workshop, Inha, Korea. Invited talk: "A statistical physics perspective on rare and abundant species", 
+- *Aug 2023*, STATPHYS28, Tokyo, Japan. Contributed talk: "Chaotic species abundance turnover in a strongly interacting ecosystem"
 
+*Continous*  
+**Peer reviewer** for PNAS; J. Theor. Biol.; Phys. Rev. Lett.; PLOS Comp. Biol.; PLOS Complex Systems; J. Phys.: Complexity; J. Phys A; J. Stat. Mech.; Soft Matter
 
