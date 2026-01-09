@@ -34,7 +34,7 @@ This school, initiated and hosted by the *Institut Natura e Teoria Pirenèus (IN
 
 *July 2023*  
 **Principal organizer: 'Microbial community ecology: bridging theory and observations'**, MPI Plön, Germany  
-The aim of this 3-day workshop was to tackle the high complexity of diverse microbial ecosystems through integration of insights from across different perspectives and methodologies ((programme)[https://workshops.evolbio.mpg.de/event/84/overview]). Organized by myself, Silvia De Monte, and several international peers for 40 attending scientists, my responsibilities included setting the scientific agenda, budgeting, inviting/selecting participants, and moderating talk sessions.
+The aim of this 3-day workshop was to tackle the high complexity of diverse microbial ecosystems through integration of insights from across different perspectives and methodologies ([programme](https://workshops.evolbio.mpg.de/event/84/overview)). Organized by myself, Silvia De Monte, and several international peers for 40 attending scientists, my responsibilities included setting the scientific agenda, budgeting, inviting/selecting participants, and moderating talk sessions.
 
 *2020 - 2021*  
 **Co-organizer & Host: "Statistical Physics and Complexity Webinar Series"**  
