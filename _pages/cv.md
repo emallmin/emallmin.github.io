@@ -44,11 +44,11 @@ I took part in refactoring a regular group meeting for the statistical physics g
 **Teaching assistant: University of Edinburgh, Physics & Astronomy**  
 Courses: Linear Algebra and Several Variable Calculus, Thermodynamics, Statistical Mechanics, Statistical Physics (Honours), Advanced Statistical Physics (Honours)
 
-**Selected conference attendances**
+**Conference participation (selection)**
 - *July 2025:* STATPHYS29, Florence, Italy. Contributed talk: "How fluctuating growth rates make species-rich communities uneven"
-- *July 2024*, MMEE24: Mathematical Modeling in Ecology and Evolution, Vienna, Austria. Invited talk (Macroecology session) "Turnover of rare and abundant species due to unstructured ecological differences"
-- *Feb 2024*, Modeling on Ecology and Evolution Workshop, Inha, Korea. Invited talk: "A statistical physics perspective on rare and abundant species", 
-- *Aug 2023*, STATPHYS28, Tokyo, Japan. Contributed talk: "Chaotic species abundance turnover in a strongly interacting ecosystem"
+- *July 2024:* Mathematical Modeling in Ecology and Evolution (MMEE24), Vienna, Austria. Invited talk, Macroecology session: "Turnover of rare and abundant species due to unstructured ecological differences"
+- *Feb 2024:* Modeling on Ecology and Evolution Workshop, Inha, Korea. Invited talk: "A statistical physics perspective on rare and abundant species", 
+- *Aug 2023:* STATPHYS28, Tokyo, Japan. Contributed talk: "Chaotic species abundance turnover in a strongly interacting ecosystem"
 
 *Continous*  
 **Peer reviewer** for PNAS; J. Theor. Biol.; Phys. Rev. Lett.; PLOS Comp. Biol.; PLOS Complex Systems; J. Phys.: Complexity; J. Phys A; J. Stat. Mech.; Soft Matter
