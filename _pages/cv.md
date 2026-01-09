@@ -4,7 +4,7 @@ permalink: /cv/
 layout: single
 classes: wide
 ---
-
+See [here](/publications/) for publications.
 
 ## Academic appointments
 
@@ -36,7 +36,7 @@ First semester 2016 at the National University of Singapore
 **Principal organizer: 'Microbial community ecology: bridging theory and observations'**, MPI Plön, Germany  
 [Some information about the workshop]
 
-*2020 - 2021*
+*2020 - 2021*  
 **Co-organizer/host of webinar series "Statistical Physics and Complexity"**  
 [add info]
 
