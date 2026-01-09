@@ -10,7 +10,7 @@ See [here](/publications/) for publications.
 
 *Sept 2021 – present*  
 **Postdoc: Max Planck Institute for Evolutionary Biology**, Plön, Germany  
-In the respective groups of Silvia De Monte and Arne Traulsen
+In the respective groups of Silvia De Monte (*Dynamics of Microbial Collectives*) and Arne Traulsen (*Dynamics, Ecology, and Evolution of Populations*)
 
 ## Education
 
@@ -30,7 +30,7 @@ First semester 2016 at the National University of Singapore
 
 *2024 and forward*  
 **Co-organizer & Lecturer: "INTP Spring/Summer School on Mathematical Theory in Community Ecology"**, Surba, France  
-This school, initiated and hosted by the *Institut Natura e Teoria Pirenèus (INTP)*, offers an overview of community ecology for interdisciplinary theoreticians from Master's level and up. The lecture materials have been crafted in a collaborative fashion by our team of researchers working on both sides of the interface between physics and community ecology, with the aim to unify and synthesizing perspectives. The first edition of the school was held in May 2025 ([programme](https://intp.science/en/content/2025-intp-spring-school-community-ecology)) with the second edition planned for July 2026.
+This school, initiated and hosted by the *Institut Natura e Teoria Pirenèus (INTP)*, offers an overview of community ecology for interdisciplinary theoreticians from Master's level and up. The lecture materials have been crafted in a collaborative fashion by our team of researchers working on both sides of the interface between physics and community ecology, with the aim to unify and synthesize perspectives. The first edition of the school was held in May 2025 ([programme](https://intp.science/en/content/2025-intp-spring-school-community-ecology)) with the second edition planned for July 2026.
 
 *July 2023*  
 **Principal organizer: 'Microbial community ecology: bridging theory and observations'**, MPI Plön, Germany  
@@ -38,7 +38,7 @@ The aim of this 3-day workshop was to tackle the high complexity of diverse micr
 
 *2020 - 2021*  
 **Co-organizer & Host: "Statistical Physics and Complexity Webinar Series"**  
-[add info]
+I took part in refactoring a regular group meeting for the statistical physics group in Edinburgh into an [open webinar series](https://www.ph.ed.ac.uk/icmcs/seminars/statistical-physics-and-complexity-group-meetings) during the Corona pandemic. The series has become a well established communication channel in the field. 
 
 *2018 – 2020*  
 **Teaching assistant: University of Edinburgh, Physics & Astronomy**  
