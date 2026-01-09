@@ -38,7 +38,7 @@ The aim of this 3-day workshop was to tackle the high complexity of diverse micr
 
 *2020 - 2021*  
 **Co-organizer & Host: "Statistical Physics and Complexity Webinar Series"**  
-I took part in refactoring a regular group meeting for the statistical physics group in Edinburgh into an [open webinar series](https://www.ph.ed.ac.uk/icmcs/seminars/statistical-physics-and-complexity-group-meetings) during the Corona pandemic. The series has become a well established communication channel in the field. 
+I took part in refactoring a regular group meeting for the statistical physics group in Edinburgh into an [open webinar series](https://www.ph.ed.ac.uk/icmcs/seminars/statistical-physics-and-complexity-group-meetings) during the Corona pandemic. The series has become well established in the field. 
 
 *2018 – 2020*  
 **Teaching assistant: University of Edinburgh, Physics & Astronomy**  
