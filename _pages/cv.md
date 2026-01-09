@@ -42,7 +42,7 @@ I took part in refactoring a regular group meeting for the statistical physics g
 
 *2018 – 2020*  
 **Teaching assistant: University of Edinburgh, Physics & Astronomy**  
-Courses: Linear Algebra and several variable calculus, Thermodynamics, Statistical mechanics, Statistical Physics (Honours), Advanced Statistical Physics (Honours)
+Courses: Linear Algebra and Several Variable Calculus, Thermodynamics, Statistical Mechanics, Statistical Physics (Honours), Advanced Statistical Physics (Honours)
 
 *Continuous*  
 **Peer reviewer** for PNAS; J. Theor. Biol.; Phys. Rev. Lett.; PLOS Comp. Biol.; PLOS Complex Systems; J. Phys.: Complexity; J. Phys A; J. Stat. Mech.; Soft Matter
