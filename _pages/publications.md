@@ -8,7 +8,7 @@ All my published works are freely available, either through journal open access 
 
 0. **Fluctuating growth rates link turnover and unevenness in species-rich communities**      
     Emil Mallmin, Arne Traulsen, Silvia De Monte      
-    *Ecology Letters* 2026 ([accepted preprint](https://arxiv.org/abs/2505.01376)) 
+    *Ecology Letters* 2026 ([open access](https://doi.org/10.1111/ele.70333)) 
 0. **Chaotic turnover of rare and abundant species in a strongly interacting model community**       
     Emil Mallmin, Arne Traulsen, Silvia De Monte  
     *PNAS* 2024 ([open access](https://doi.org/10.1073/pnas.2312822121))

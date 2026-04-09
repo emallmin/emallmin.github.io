@@ -9,6 +9,7 @@ This is my personal webpage. Under construction.
 ## My research
 Description goes here.
 
+$$ \alpha^2 $$
 
 ## On the agenda
 
